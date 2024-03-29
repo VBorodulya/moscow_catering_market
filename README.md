@@ -26,3 +26,8 @@
 
 ## Jupyter Notebook
 **moscow_catering_market.ipynb**
+
+## requirements.txt
+Этот файл содержит список библиотек Python, необходимых для запуска проекта.
+
+Чтобы установить библиотеки, запустите следующую команду: <pre>pip install -r requirements.txt<pre>
