@@ -1,4 +1,4 @@
-# moscow_food_market
+# moscow_catering_market
 
 ## Описание проекта
 
@@ -31,4 +31,4 @@
 
 ## Jupyter Notebook
 
-**moscow_food_market.ipynb**
+**moscow_catering_market.ipynb**
